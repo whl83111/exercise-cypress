@@ -1,0 +1,17 @@
+{
+  "name": "exercise-cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/whl83111/exercise-cypress.git",
+  "author": "whl83111 <whl83111@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "cy:open": "cypress open"
+  },
+  "devDependencies": {
+    "@types/chai": "^4.2.19",
+    "@types/mocha": "^8.2.2",
+    "cypress": "^7.6.0"
+  }
+}
